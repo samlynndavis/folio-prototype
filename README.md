@@ -11,6 +11,8 @@
 #### Libraries, Plugins, etc.
 
 - [GSAP](https://github.com/greensock/GSAP)
+- [Gatsby.js](gatsbyjs.org/)
+- [React.js](https://reactjs.org/)
 
 #### Fonts
 
